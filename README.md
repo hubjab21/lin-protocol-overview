@@ -238,15 +238,6 @@ Correct frame:
 
 ---
 
-## Sources
-
-- ISO 17987 (LIN standard)
-- LIN Specification Package 2.2A
-- https://linchecksumcalculator.machsystems.cz
-- https://en.wikipedia.org/wiki/Local_Interconnect_Network
-
----
-
 ## Author
 
 Hubert Jabłoński
